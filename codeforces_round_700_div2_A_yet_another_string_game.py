@@ -1,3 +1,8 @@
+# Contest: https://codeforces.com/contest/1480
+# Problem: https://codeforces.com/contest/1480/problem/A
+# Trials: 1
+# Solved: during contest
+
 t = int(input())
  
 for _ in range(t):
