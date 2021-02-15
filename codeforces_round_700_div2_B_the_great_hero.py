@@ -1,6 +1,6 @@
 # Contest: https://codeforces.com/contest/1480
 # Problem: https://codeforces.com/contest/1480/problem/B
-# Trials: 14
+# Attempts: 14
 # Solved: after contest
 # Duration: 01:36:13
 

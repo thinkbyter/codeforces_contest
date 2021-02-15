@@ -1,6 +1,6 @@
 # Contest: https://codeforces.com/contest/1481
 # Problem: https://codeforces.com/contest/1481/problem/B
-# Trials: 4
+# Attempts: 4
 # Solved: during contest
 
 t = int(input())

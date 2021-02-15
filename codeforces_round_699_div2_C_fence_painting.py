@@ -1,6 +1,6 @@
 # Contest: https://codeforces.com/contest/1481
 # Problem: https://codeforces.com/contest/1481/problem/C
-# Trials: 1
+# Attempts: 1
 # Solved: after contest
 # Duration: 02:07:12
 
